@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Build-Date: 2024-04-26T14:50:58.242888+02:00
-Created-By: OpenL WebStudio v.5.26.6
-Implementation-Title: Example 1 - Bank Rating
-Build-Branch: main
-Build-Number: 548de88a9619da421f830b1a29575d476a21efd0
-Implementation-Version: DEFAULT-2024-04-26_14-50-48
-Built-By: DEFAULT
-
