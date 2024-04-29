@@ -1,0 +1,14 @@
+<project>
+    <name>Example 1 - Bank Rating</name>
+    <comment>qwe test1</comment>
+    <modules>
+        <module>
+            <name>Bank Rating1</name>
+            <rules-root path="Bank Rating1.xlsx"/>
+        </module>
+        <module>
+            <name>Main</name>
+            <rules-root path="Main.xlsx"/>
+        </module>
+    </modules>
+</project>
