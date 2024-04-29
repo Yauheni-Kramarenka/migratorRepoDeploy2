@@ -1,0 +1,10 @@
+
+<descriptors>
+    <descriptor>
+        <repositoryId>design</repositoryId>
+        <path>DESIGN/rules/Sample Project</path>
+        <projectName>Sample Project</projectName>
+        <branch>main</branch>
+        <projectVersion>56b2fa835a2b1ed3ea8ab137ea4f0b98f909f3b0</projectVersion>
+    </descriptor>
+</descriptors>
